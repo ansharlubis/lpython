@@ -386,10 +386,6 @@ asr = true
 filename = "../integration_tests/generics_list_01.py"
 asr = true
 
-[[test]]
-filename = "../integration_tests/generics_trait_01.py"
-asr = true
-
 
 # tests/tokens
 
